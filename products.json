@@ -1,0 +1,17 @@
+[ {
+  "id" : 1,
+  "name" : "Balon con blanco",
+  "image" : "prueba",
+  "description" : "Balon",
+  "price" : 10000.0,
+  "rating" : 1.0,
+  "specifications" : "prueba #2"
+}, {
+  "id" : 2,
+  "name" : "Carro",
+  "image" : "carro",
+  "description" : "Carro",
+  "price" : 10000.0,
+  "rating" : 1.0,
+  "specifications" : "prueba #1"
+} ]
